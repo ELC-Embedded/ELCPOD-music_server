@@ -14,7 +14,7 @@
 #include "player.h"
 #include "node.h"
 
-#define IP    "172.17.7.99"
+#define IP    "127.0.0.1"
 #define PORT  8000
 
 
